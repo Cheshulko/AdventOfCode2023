@@ -1,0 +1,7 @@
+[package]
+name = "advent_of_code"
+version = "2.0.23"
+
+[[bin]]
+name = "day1"
+path = "src/bin/day1.rs"
