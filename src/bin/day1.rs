@@ -1,11 +1,11 @@
-use input::read_lines;
+use input::{read_lines, Res};
 
 mod input;
 
 const IN_SMALL: &str = "assets/day1/in_small.txt";
 const IN: &str = "assets/day1/in.txt";
 
-fn main() -> Result<(), std::io::Error> {
+fn main() -> Res<()> {
     let ans_part_1 = part1(IN)?;
     let ans_part_2 = part2(IN)?;
 
@@ -16,7 +16,7 @@ fn main() -> Result<(), std::io::Error> {
 }
 
 // 54667
-fn part1(file: &str) -> Result<u32, std::io::Error> {
+fn part1(file: &str) -> Res<u32> {
     Ok(read_lines(file)?
         .into_iter()
         .map(|line| line.chars().collect::<Vec<_>>())
@@ -31,7 +31,7 @@ fn part1(file: &str) -> Result<u32, std::io::Error> {
 }
 
 // 54203
-fn part2(file: &str) -> Result<u32, std::io::Error> {
+fn part2(file: &str) -> Res<u32> {
     const VALID_DIGITS: &[&str] = &[
         "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
     ];
