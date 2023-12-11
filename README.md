@@ -9,3 +9,4 @@
 - [Day 7: Camel Cards](src/bin/day7.rs)
 - [Day 8: Haunted Wasteland](src/bin/day8.rs)
 - [Day 9: Mirage Maintenance](src/bin/day9.rs)
+- [Day 10: Pipe Maze](src/bin/day10.rs)
