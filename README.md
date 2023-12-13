@@ -11,3 +11,4 @@
 - [Day 9: Mirage Maintenance](src/bin/day9.rs)
 - [Day 10: Pipe Maze](src/bin/day10.rs)
 - [Day 11: Cosmic Expansion](src/bin/day11.rs)
+- [Day 12: Hot Springs](src/bin/day12.rs)
