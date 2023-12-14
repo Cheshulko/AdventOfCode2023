@@ -12,3 +12,4 @@
 - [Day 10: Pipe Maze](src/bin/day10.rs)
 - [Day 11: Cosmic Expansion](src/bin/day11.rs)
 - [Day 12: Hot Springs](src/bin/day12.rs)
+- [Day 13: Point of Incidence](src/bin/day13.rs)
