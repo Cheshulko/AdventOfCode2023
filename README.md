@@ -15,3 +15,4 @@
 - [Day 13: Point of Incidence](src/bin/day13.rs)
 - [Day 14: Parabolic Reflector Dish](src/bin/day14.rs)
 - [Day 15: Lens Library](src/bin/day15.rs)
+- [Day 16: The Floor Will Be Lava](src/bin/day16.rs)
