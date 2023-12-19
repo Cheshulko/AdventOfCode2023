@@ -17,3 +17,4 @@
 - [Day 15: Lens Library](src/bin/day15.rs)
 - [Day 16: The Floor Will Be Lava](src/bin/day16.rs)
 - [Day 17: Clumsy Crucible](src/bin/day17.rs)
+- [Day 18: Lavaduct Lagoon](src/bin/day18.rs)
