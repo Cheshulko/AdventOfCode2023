@@ -19,3 +19,4 @@
 - [Day 17: Clumsy Crucible](src/bin/day17.rs)
 - [Day 18: Lavaduct Lagoon](src/bin/day18.rs)
 - [Day 19: Aplenty](src/bin/day19.rs)
+- [Day 20: Pulse Propagation](src/bin/day20.rs)
