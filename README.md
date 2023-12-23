@@ -21,3 +21,4 @@
 - [Day 19: Aplenty](src/bin/day19.rs)
 - [Day 20: Pulse Propagation](src/bin/day20.rs)
 - [Day 21: Step Counter](src/bin/day21.rs) Part 1
+- [Day 22: Sand Slabs](src/bin/day22.rs)
