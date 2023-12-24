@@ -22,3 +22,4 @@
 - [Day 20: Pulse Propagation](src/bin/day20.rs)
 - [Day 21: Step Counter](src/bin/day21.rs) Part 1
 - [Day 22: Sand Slabs](src/bin/day22.rs)
+- [Day 23: A Long Walk](src/bin/day23.rs)
