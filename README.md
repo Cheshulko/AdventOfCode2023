@@ -1,5 +1,7 @@
 # AdventOfCode2023
 
+<img src="https://github.com/Cheshulko/AdventOfCode2023/blob/main/assets/img.png?raw=true" width="500"/>
+
 - [Day 1: Trebuchet?!](src/bin/day1.rs)
 - [Day 2: Cube Conundrum](src/bin/day2.rs)
 - [Day 3: Gear Ratios](src/bin/day3.rs)
